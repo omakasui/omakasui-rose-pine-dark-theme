@@ -15,7 +15,7 @@ A rose pine dark theme for [Omakube](https://omakube.omakasui.org/), based on [O
 Use the builtin installation script:
 
 ```bash
-omakub-theme-install https://github.com/Kasui92/omakub-rose-pine-dark-theme
+omakub-theme-install https://github.com/omakasui/omakube-rose-pine-dark-theme
 ```
 
 ### Acknowledgments
