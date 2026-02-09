@@ -1,6 +1,6 @@
-# Rose pine dark theme for [Omakube](https://omakube.omakasui.org/) and Omadeb
+# Rose pine dark theme for [Omabuntu](https://omabuntu.omakasui.org/) and Omadeb
 
-A rose pine dark theme for [Omakube](https://omakube.omakasui.org/), based on [Omarchy Rose Pine Dark](https://github.com/guilhermetk/omarchy-rose-pine-dark) by [guilhermetk](https://github.com/guilhermetk)
+A rose pine dark theme for [Omabuntu](https://omabuntu.omakasui.org/), based on [Omarchy Rose Pine Dark](https://github.com/guilhermetk/omarchy-rose-pine-dark) by [guilhermetk](https://github.com/guilhermetk)
 
 ### Preview:
 
@@ -20,5 +20,5 @@ omakub-theme-install https://github.com/omakasui/omakube-rose-pine-dark-theme
 
 ### Acknowledgments
 
-- [Omakube](https://omakube.omakasui.org/) a fork of [Omakub](https://omakub.org/), Opinionated Ubuntu Setup by [DHH](https://dhh.dk), more flexible and refined 
+- [Omabuntu](https://omabuntu.omakasui.org/) a fork of [Omakub](https://omakub.org/), Opinionated Ubuntu Setup by [DHH](https://dhh.dk), more flexible and refined 
 - [Rose pine](https://rosepinetheme.com/) All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
